@@ -1,7 +1,7 @@
 public class Main {
 
     public void future() {
-        System.out.println("Taurus");
+        System.out.println("Horse");
     }
     public static void main(String[] args) {
         greet();
@@ -11,8 +11,8 @@ public class Main {
         System.out.println("Erika");
     }
 
-    public void cheer() {
-        System.out.println("Barna's Tribes");
+    public void cheer(String word) {
+        System.out.println("Barna's Tribes"+word);
     }
 
 
