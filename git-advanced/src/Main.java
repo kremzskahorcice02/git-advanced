@@ -9,8 +9,6 @@ public class Main {
     }
 
 
-    public void greet(String myName){
-        System.out.println(myName);
 
 
     public void greet() {
