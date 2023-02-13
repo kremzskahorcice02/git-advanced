@@ -8,7 +8,7 @@ public class Main {
 
     }
     public void greet(){
-        System.out.println("Erika");
+        System.out.println("Greetings!");
     }
 
     public void cheer() {
