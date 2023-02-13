@@ -7,7 +7,7 @@ public class Main {
         greet();
 
     }
-    public void greet(){
+    public static void greet(){
         System.out.println("Erika");
     }
 
