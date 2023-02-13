@@ -6,4 +6,8 @@ public class Main {
     public void greet(){
         System.out.println("Erika");
     }
+
+    public void cheer() {
+        System.out.println("Barna's Tribes");
+    }
 }
