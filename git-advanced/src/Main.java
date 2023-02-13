@@ -13,6 +13,6 @@ public class Main {
     }
 
     public void cheer() {
-        System.out.println("Barna's Tribes");
+        System.out.println("Java");
     }
 }
