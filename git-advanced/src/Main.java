@@ -1,7 +1,7 @@
 public class Main {
 
-    public void future(String who) {
-        System.out.println("Taurus - " + who);
+    public void future(String futureAttribute) {
+        System.out.println("Your future looks like " + who);
     }
     public static void main(String[] args) {
         greet();
