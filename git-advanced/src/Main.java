@@ -7,8 +7,8 @@ public class Main {
     public static void main(String[] args) {
     }
 
-    public void greet(String firstname, String lastName) {
-        System.out.println("Hi, my name is " + firstname + lastName);
+    public void greet(String name) {
+        System.out.println("Greetings for the " + name);
     }
 
     public void cheer(String team, String mentor) {
