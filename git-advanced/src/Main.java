@@ -8,11 +8,17 @@ public class Main {
 
     }
 
+
     public void greet(String myName){
         System.out.println(myName);
 
 
+    public void greet() {
+        System.out.println("Greetings!");
+    }
+
+
     public void cheer() {
-        System.out.println("Barna's Tribes");
+        System.out.println("Java");
     }
 }
