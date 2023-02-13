@@ -11,8 +11,8 @@ public class Main {
 
 
 
-    public void greet() {
-        System.out.println("Greetings!");
+    public void greet(String firstname, String lastName) {
+        System.out.println("Hi, my name is " + firstname + lastName);
     }
 
 
