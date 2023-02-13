@@ -1,6 +1,7 @@
 public class fanni {
-    public void count (String myAge) {
+    public void count (String myAge, String myName) {
         myAge = "27";
-        System.out.println(myAge);
+        myName = "fanni";
+        System.out.println(myAge + ", " + myName);
     }
 }
