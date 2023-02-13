@@ -1,12 +1,7 @@
 public class Main {
-
-<<<<<<< HEAD
-    public void future() {
-        System.out.println("Horse");
-=======
+    
     public void future(String who) {
-        System.out.println("Taurus - " + who);
->>>>>>> 9bebe45a795ba7da673a38795a519241c5a7b784
+        System.out.println("Horse - " + who);
     }
     public static void main(String[] args) {
         greet();
