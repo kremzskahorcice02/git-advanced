@@ -7,11 +7,13 @@ public class Main {
         greet();
 
     }
-    public static void greet(){
-        System.out.println("Erika");
+
+    public void greet() {
+        System.out.println("Greetings!");
     }
 
     public void cheer(String word) {
-        System.out.println("Barna's Tribes"+word);
+        System.out.println("Barna's Tribes"+word+"Java");
+
     }
 }
