@@ -1,5 +1,6 @@
 public class fanni {
-    public void count () {
-        System.out.println("27");
+    public void count (String myAge) {
+        myAge = "27";
+        System.out.println(myAge);
     }
 }
