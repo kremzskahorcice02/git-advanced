@@ -4,8 +4,6 @@ public class Main {
         System.out.println(sign + " - " + who);
     }
     public static void main(String[] args) {
-        greet();
-
     }
 
 
@@ -16,7 +14,7 @@ public class Main {
     }
 
 
-    public void cheer() {
-        System.out.println("Java");
+    public void cheer(String param) {
+        System.out.println("Cheer for the " + param);
     }
 }
