@@ -6,9 +6,14 @@ public class Main {
     public static void main(String[] args) {
     }
 
+<<<<<<< HEAD
     public void greet(){
         System.out.println("Greetings!");
 
+=======
+    public void greet() {
+        System.out.println("Greetings!");
+>>>>>>> b0142910e98686b2ebd33a5372f127bd6de3cd64
     }
 
     public void cheer() {
